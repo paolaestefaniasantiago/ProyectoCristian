@@ -1,15 +1,15 @@
 <?php
 
-$nombre=$_REQUEST['nombre'];
-$email=$_REQUEST['email'];
-$estado=$_REQUEST['estado'];
-$id=$_REQUEST['id'];
-$semilla=$_REQUEST['semilla'];
-$institucion=$_REQUEST['institucion'];
-$fotografia='images/nopic.png';
+$nombre=$_REQUEST['Primer_Nombre'];
+$email=$_REQUEST['Segundo_nombre'];
+$estado=$_REQUEST['Apellido_Paterno'];
+$id=$_REQUEST['Apellido_Materno'];
+$semilla=$_REQUEST['Cuidad'];
+$institucion=$_REQUEST['Institucion'];
+
 
 include 'conexionbd.php';
-$query="insert into registro_conimi (nombre, email, estado, id_visita, semilla, institucion, fotografia)values('$nombre','$email','$estado','$id','$semilla','$institucion','$fotografia')";
+$query="insert into nuevo_registro(Primer_nombre,Segundo_nombre,Apellido_Paterno,Apellido_Materno,Institucion,Cuidad)values('$Primer_nombre','$Segundo_nombre','$Apellido_Materno','$Apellido_Paterno','$Cuidad','$Institucion')";
 $resultado = $mysqli->query($query);
 
 
