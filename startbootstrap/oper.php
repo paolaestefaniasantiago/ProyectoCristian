@@ -28,7 +28,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Examen de Exploración</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Examen de Exploraci&oacuten</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -60,12 +60,13 @@
 				while($row = $resultado->fetch_assoc()) {
 				$nombre_user=$row["nombre_usuario"];
 				$id_usu=$row["tipo_usuario"];
-				echo("BIENVENIDO(A): $nombre_user    $id_usu");
+				// echo("BIENVENIDO(A): $nombre_user    $id_usu");
 				}
 			}
 			else
 			{
-				echo("Usuario inv&aacute;lido");
+				header('Location: nuevo_registroe.html');
+			
 			}
 			
 		?>
@@ -87,9 +88,9 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">Instrucciones</h2>
-          <p class="text-white-50">Lee con atención cada una de las preguntas y escoge la opción que consideres adecuada. Para
-resolver el examen tienes un tiempo máximo de 50 minutos. No se requiere ningún instrumento
-(formulario, calculadora o tabla periódica).</p>
+          <p class="text-white-50">Lee con atenci&oacuten cada una de las preguntas y escoge la opci&oacuten que consideres adecuada. Para
+resolver el examen tienes un tiempo m&aacuteximo de 50 minutos. No se requiere ning&uacuten instrumento
+(formulario, calculadora o tabla peri&oacutedica).</p>
         </div>
       </div>
       <!--<img src="img/ipad.png" class="img-fluid" alt="">-->
@@ -108,7 +109,7 @@ resolver el examen tienes un tiempo máximo de 50 minutos. No se requiere ningún 
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>1</h4>
-            <p class="text-black-50 mb-0">Es una sustancia que no se puede separar en otras más sencillas por medios químicos:</p>
+            <p class="text-black-50 mb-0">Es una sustancia que no se puede separar en otras m&aacutes sencillas por medios qu&iacutemicos:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">Compuesto</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Compuesto</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Compuesto</a>
@@ -120,11 +121,11 @@ resolver el examen tienes un tiempo máximo de 50 minutos. No se requiere ningún 
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>2</h4>
-            <p class="text-black-50 mb-0">¿Cuál de las siguientes afirmaciones es incorrecta considerando el número atómico de un
+            <p class="text-black-50 mb-0">¿Cu&aacutel de las siguientes afirmaciones es incorrecta considerando el n&uacutemero at&oacutemico de un
 elemento?</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Número de protones en el núcleo</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Número de protones en las órbitas</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Se utiliza para la configuración electrónica de los elementos</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en el n&uacutecleo</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en las &oacuterbitas</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Se utiliza para la configuraci&oacuten electrónica de los elementos</a>
 			</div>
         </div>
       </div>
@@ -134,9 +135,9 @@ elemento?</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>3</h4>
-            <p class="text-black-50 mb-0">El nombre de los siguientes elementos químicos Mn, P, K, S, Ba, Cs, Fe, Nd, Ca y Al es:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Magnesio, Potasio, Kriptón, Azufre, Bario, Escandio, Flúor, Neodimio, Calcio y Aluminio.</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Manganeso, Potasio, Kriptón, Azufre, Bario, Cesio, Fierro, Neodimio, Calcio y Aluminio.</a>
+            <p class="text-black-50 mb-0">El nombre de los siguientes elementos qu&iacutemicos Mn, P, K, S, Ba, Cs, Fe, Nd, Ca y Al es:</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Magnesio, Potasio, Kript&oacuten, Azufre, Bario, Escandio, Fl&uacuteor, Neodimio, Calcio y Aluminio.</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Manganeso, Potasio, Kript&oacuten, Azufre, Bario, Cesio, Fierro, Neodimio, Calcio y Aluminio.</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Manganeso, Fosforo, Potasio, Azufre, Bario, Cesio, Fierro, Neodimio, Calcio y Aluminio.</a>
 			</div>
         </div>
