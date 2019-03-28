@@ -121,11 +121,13 @@ resolver el examen tienes un tiempo m&aacuteximo de 50 minutos. No se requiere n
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>2</h4>
-            <p class="text-black-50 mb-0">¿Cu&aacutel de las siguientes afirmaciones es incorrecta considerando el n&uacutemero at&oacutemico de un
+            <p class="text-black-50 mb-0">&iquest;Cu&aacutel de las siguientes afirmaciones es incorrecta considerando el n&uacutemero at&oacutemico de un
 elemento?</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en el n&uacutecleo</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en las &oacuterbitas</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Se utiliza para la configuraci&oacuten electrónica de los elementos</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en el n&uacutecleo </a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">N&uacutemero de protones en las &oacuterbitas </a>
+			  <br>
+			  <br>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Se utiliza para la configuraci&oacuten electr&oacutenica de los elementos</a>
 			</div>
         </div>
       </div>
@@ -137,7 +139,11 @@ elemento?</p>
             <h4>3</h4>
             <p class="text-black-50 mb-0">El nombre de los siguientes elementos qu&iacutemicos Mn, P, K, S, Ba, Cs, Fe, Nd, Ca y Al es:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">Magnesio, Potasio, Kript&oacuten, Azufre, Bario, Escandio, Fl&uacuteor, Neodimio, Calcio y Aluminio.</a>
+			  <br>
+			  <br>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Manganeso, Potasio, Kript&oacuten, Azufre, Bario, Cesio, Fierro, Neodimio, Calcio y Aluminio.</a>
+			  <br>
+			  <br>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Manganeso, Fosforo, Potasio, Azufre, Bario, Cesio, Fierro, Neodimio, Calcio y Aluminio.</a>
 			</div>
         </div>
@@ -148,7 +154,7 @@ elemento?</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>4</h4>
-            <p class="text-black-50 mb-0">Selecciona de las siguientes afirmaciones relacionadas con el níquel (Ni), cual no es
+            <p class="text-black-50 mb-0">Selecciona de las siguientes afirmaciones relacionadas con el n&iacutequel (Ni), cual no es
 verdadera.</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">Es un aislante</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Es maleable</a>
@@ -162,9 +168,9 @@ verdadera.</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>5</h4>
-            <p class="text-black-50 mb-0">Su principal característica es que son considerados gases inertes:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Halógenos</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Metales de transición</a>
+            <p class="text-black-50 mb-0">Su principal caracter&iacutestica es que son considerados gases inertes:</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Hal&oacutegenos</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Metales de transici&oacuten</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Gases nobles</a>
 			</div>
         </div>
@@ -175,10 +181,14 @@ verdadera.</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>6</h4>
-            <p class="text-black-50 mb-0">El Radio atómico se define como:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos núcleos de dos moléculas adyacentes</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos núcleos de dos átomos adyacentes</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos núcleos de un átomo y una molécula adyacentes</a>
+            <p class="text-black-50 mb-0">El Radio at&oacutemico se define como:</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos n&uacutecleos de dos mol&eacuteculas adyacentes</a>
+			  <br>
+			  <br>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos n&uacutecleos de dos &aacutetomos adyacentes</a>
+			  <br>
+			  <br>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Mitad de la distancia entre dos n&uacutecleos de un &aacutetomo y una mol&eacutecula adyacentes</a>
 			</div>
         </div>
       </div>
@@ -188,11 +198,11 @@ verdadera.</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>7</h4>
-            <p class="text-black-50 mb-0">Se define como la energía mínima necesaria para separar un electrón de un átomo en estado
+            <p class="text-black-50 mb-0">Se define como la energ&iacutea m&iacutenima necesaria para separar un electr&oacuten de un &aacutetomo en estado
 gaseoso:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Afinidad electrónica</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Afinidad electr&oacutenica</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Electronegatividad</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Energía de ionización</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Energ&iacutea de ionizaci&oacuten</a>
 			</div>
         </div>
       </div>
@@ -203,8 +213,10 @@ gaseoso:</p>
           <div class="featured-text text-center text-lg-left">
             <h4>8</h4>
             <p class="text-black-50 mb-0">Un enlace covalente se caracteriza por:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Fuerzas electrostáticas entre los elementos</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Fuerzas electrost&aacuteticas entre los elementos</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Por compartir electrones entre los elementos</a>
+			  <br>
+			  <br>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Por ceder el par de electrones de un elemento a otro</a>
 			</div>
         </div>
@@ -230,7 +242,7 @@ gaseoso:</p>
             <h4>10</h4>
             <p class="text-black-50 mb-0">Una propiedad para diferenciar un enlace covalente polar y un enlace covalente no polar es:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">Electronegatividad</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Radio atómico</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Radio at&oacutemico</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Longitud de enlace</a>
 			</div>
         </div>
@@ -241,7 +253,7 @@ gaseoso:</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>11</h4>
-            <p class="text-black-50 mb-0">El estado de oxidación del Azufre (S) en el compuesto ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>) es:</p>
+            <p class="text-black-50 mb-0">El estado de oxidaci&oacuten del Azufre (S) en el compuesto &aacutecido sulf&uacuterico (H<sub>2</sub>SO<sub>4</sub>) es:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">+2</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">6</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">-6</a>
@@ -254,11 +266,11 @@ gaseoso:</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>12</h4>
-            <p class="text-black-50 mb-0">La reacción química donde se unen dos elementos o dos compuestos para generar un solo
+            <p class="text-black-50 mb-0">La reacci&oacuten qu&iacutemica donde se unen dos elementos o dos compuestos para generar un solo
 producto se llama:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Reacción de sustitución</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Reacción de síntesis</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Reacción de metátesis</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Reacci&oacuten de sustituci&oacuten</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Reacci&oacuten de s&iacutentesis</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Reacci&aacuten de met&aacutetesis</a>
 			</div>
         </div>
       </div>
@@ -268,10 +280,9 @@ producto se llama:</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>13</h4>
-            <p class="text-black-50 mb-0">En una reacción de combustión:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Implica perdida de oxígeno</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Implica la necesidad de
-oxígeno</a>
+            <p class="text-black-50 mb-0">En una reacci&oacuten de combusti&oacuten:</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Implica perdida de ox&iacutegeno</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Implica la necesidad de ox&iacutegeno</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Las dos anteriores</a>
 			</div>
         </div>
@@ -282,7 +293,7 @@ oxígeno</a>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>14</h4>
-            <p class="text-black-50 mb-0">Si lo pesos atómicos del Carbono y del Hidrógeno son 12 y 1 respectivamente, la masa molar del propano C<sub>3</sub>H<sub>8</sub> es:</p>
+            <p class="text-black-50 mb-0">Si lo pesos at&oacutemicos del Carbono y del Hidr&oacutegeno son 12 y 1 respectivamente, la masa molar del propano C<sub>3</sub>H<sub>8</sub> es:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">34 g</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">54 g</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">44 g</a>
@@ -296,8 +307,8 @@ oxígeno</a>
           <div class="featured-text text-center text-lg-left">
             <h4>15</h4>
             <p class="text-black-50 mb-0">Los factores que afectan la solubilidad son:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Temperatura y presión</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Calor y presión</a>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Temperatura y presi&oacuten</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Calor y presi&oacuten</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Temperatura y calor</a>
 			</div>
         </div>
@@ -308,9 +319,9 @@ oxígeno</a>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>16</h4>
-            <p class="text-black-50 mb-0">Se puede medir y observar sin que se modifique la composición de la sustancia:</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Propiedad química</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Propiedad física</a>
+            <p class="text-black-50 mb-0">Se puede medir y observar sin que se modifique la composici&oacuten de la sustancia:</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Propiedad qu&iacutemica</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Propiedad f&iacutesica</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">Ninguna de las anteriores.</a>
 			</div>
         </div>
@@ -321,11 +332,11 @@ oxígeno</a>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>17</h4>
-            <p class="text-black-50 mb-0">Es el procedimiento que se sigue para preparar una disolución menos concentrada a partir
-de un más concentrada</p>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Concentración</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Solvatación</a>
-			  <a href="#about" class="btn btn-primary js-scroll-trigger">Dilución</a>
+            <p class="text-black-50 mb-0">Es el procedimiento que se sigue para preparar una disoluci&oacuten menos concentrada a partir
+de un m&aacutes concentrada</p>
+          <a href="#about" class="btn btn-primary js-scroll-trigger">Concentraci&oacuten</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Solvataci&oacuten</a>
+			  <a href="#about" class="btn btn-primary js-scroll-trigger">Diluci&oacuten</a>
 			</div>
         </div>
       </div>
@@ -348,7 +359,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>19</h4>
-            <p class="text-black-50 mb-0">Cuál de las siguientes moléculas es inorgánica:</p>
+            <p class="text-black-50 mb-0">Cu&aacutel de las siguientes mol&eacuteculas es inorg&aacutenica:</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">NaCl</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">CH<sub>4</sub></a>
@@ -361,7 +372,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>20</h4>
-            <p class="text-black-50 mb-0">¿Cuál de los siguientes compuestos es el principal componente del gas natural?</p>
+            <p class="text-black-50 mb-0">&iquest;Cu&aacutel de los siguientes compuestos es el principal componente del gas natural?</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">BH<sub>4</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">SH<sub>4</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">CH<sub>4</sub></a>
@@ -374,7 +385,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>21</h4>
-            <p class="text-black-50 mb-0">¿Cuál es la fracción equivalente a –24?</p>
+            <p class="text-black-50 mb-0">&iquest;Cu&aacutel es la fracci&oacuten equivalente a – 24?</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">-<sup>6</sup>&frasl;<sub>8</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">-<sup>9</sup>&frasl;<sub>6</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">-<sup>6</sup>&frasl;<sub>12</sub></a>
@@ -387,7 +398,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>22</h4>
-            <p class="text-black-50 mb-0">¿Cuál es el resultado de <sup>5</sup>&frasl;<sub>6</sub> + <sup>2</sup>&frasl;<sub>4</sub> + <sup>9</sup>&frasl;<sub>10</sub>?</p>
+            <p class="text-black-50 mb-0">&iquest;Cu&aacutel es el resultado de <sup>5</sup>&frasl;<sub>6</sub> + <sup>2</sup>&frasl;<sub>4</sub> + <sup>9</sup>&frasl;<sub>10</sub>?</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>67</sup>&frasl;<sub>240</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>67</sup>&frasl;<sub>30</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>4</sup>&frasl;<sub>15</sub></a>
@@ -400,7 +411,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>23</h4>
-            <p class="text-black-50 mb-0">¿Cuál es el resultado de la siguiente operación matemática (<sup>18</sup>&frasl;<sub>10</sub>)(<sup>8</sup>&frasl;<sub>3</sub>)?</p>
+            <p class="text-black-50 mb-0">&iquest;Cu&aacutel es el resultado de la siguiente operaci&oacuten matem&aacutetica (<sup>18</sup>&frasl;<sub>10</sub>)(<sup>8</sup>&frasl;<sub>3</sub>)?</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>24</sup>&frasl;<sub>5</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>27</sup>&frasl;<sub>40</sub></a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger"><sup>5</sup>&frasl;<sub>24</sub></a>
@@ -413,7 +424,7 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>24</h4>
-            <p class="text-black-50 mb-0">Identifique el resultado de la siguiente operación 
+            <p class="text-black-50 mb-0">Identifique el resultado de la siguiente operaci&oacuten 
 			  <div class="eq-c text-black-50 mb-0">
 [
 <div class="fraction text-black-50 mb-0">
@@ -435,9 +446,9 @@ de un más concentrada</p>
         <div class="col-xl-10 col-lg-5">
           <div class="featured-text text-center text-lg-left">
             <h4>25</h4>
-            <p class="text-black-50 mb-0">En la panadería San José hay tres panaderos, cada uno produce determinada cantidad de
+            <p class="text-black-50 mb-0">En la panader&iacutea San Jos&eacute hay tres panaderos, cada uno produce determinada cantidad de
 conchas. El primero produce 100 en media hora, el segundo 100 por hora y el tercero 150
-por hora. ¿Cuántas conchas producirán entre los tres en cuatro horas?</p>
+por hora. &iquest;Cu&aacutentas conchas producir&aacuten entre los tres en cuatro horas?</p>
           <a href="#about" class="btn btn-primary js-scroll-trigger">900</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">1800</a>
 			  <a href="#about" class="btn btn-primary js-scroll-trigger">2250</a>
