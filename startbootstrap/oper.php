@@ -65,7 +65,7 @@
 			}
 			else
 			{
-				header('Location: nuevo_registroe.html');
+				header('Location: inici_error.html');
 			
 			}
 			
