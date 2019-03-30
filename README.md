@@ -9,4 +9,4 @@ In collaboration with **[Luis Angel Teran](https://github.com/Luisangelteran3489
 
 ## UPJR
 
-[![UPJR](https://www.google.com/a/cpanel/upjr.edu.mx/images/logo.gif?service=google_gsuite)]
+![UPJR](https://www.google.com/a/cpanel/upjr.edu.mx/images/logo.gif?service=google_gsuite)
