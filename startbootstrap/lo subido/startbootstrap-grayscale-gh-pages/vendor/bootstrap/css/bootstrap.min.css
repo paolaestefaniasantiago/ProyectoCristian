@@ -106,7 +106,18 @@
   display: block;
 }
 #submit{
-    font-family: sans-serif;
+	-webkit-box-shadow:0 
+	rgba(0,0,0,.1)
+	!important;box-shadow:0  
+	0 rgba(0,0,0,.1)
+	!important;padding:1.25rem 2rem;
+	font-family:'Varela Round';
+	font-size:80%;letter-spacing:.15rem;
+	border:0;
+	background-color:#64a19d;
+	
+	
+    /*font-family: sans-serif;
     font-size: 20px;
     background-color: #279;
     color: #fff;
@@ -114,8 +125,8 @@
     border-radius: 3px;
     padding: 20px;
     cursor: pointer;
-    margin-bottom: 20px;
+    margin-bottom: 20px;*/
 }
-#submit:hover{
-    background-color: #38a;
-}
+#submit:hover{background-color:#4f837f}
+#submit:focus{background-color:#4f837f;color:#fff}
+#submit:active{background-color:#467370!important}
