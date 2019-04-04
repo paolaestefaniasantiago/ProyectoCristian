@@ -13,7 +13,7 @@ $(document).ready( function () {
         type: "POST",
         url: "oper.php" ,
         success : function(){
-                window.location.href = "oper.php?primero="+primero+"&segundo="+segundo;
+                window.location.href = "exame.php?primero="+primero+"&segundo="+segundo;
         	}
     	});
 	};
