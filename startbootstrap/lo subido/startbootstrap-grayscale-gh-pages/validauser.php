@@ -29,6 +29,7 @@
 	$numC="ERROR_EMPTY_VAR";
 	$numC=$_REQUEST['numC'];
 	$nombre=$_REQUEST['nombre'];
+	$nQ= 50;
 
 	$hostname="localhost";
 	$user="root";
@@ -89,6 +90,7 @@
     }
 			?>
 		  </h2>
+		  <a href="#about" class="btn btn-primary js-scroll-trigger">Siguiente Examen</a>
       </div>
     </div>
   </header>
@@ -102,12 +104,12 @@
           <p class="text-white-50">
 			
 			<?php 
+			  echo $nQ." preguntas en total;<br>";
 			  echo $numC." pregunta(s) correcta(s) y ";
-			  echo $numW." pregunta(s) incorrecta(s).";
+			  echo $nQ-$numC." pregunta(s) incorrecta(s).";
 			?>
 		  
 		  </p>
-			<a href="#about" class="btn btn-primary js-scroll-trigger">Siguiente Examen</a>
         </div>
       </div>
       <!--<img src="img/ipad.png" class="img-fluid" alt="">-->

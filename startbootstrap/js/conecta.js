@@ -1,13 +1,14 @@
 $(document).ready( function () {
-	$("#btnAdd").on('click', function(event) {
+	$("#modi").on('click', function(event) {
 		event.preventDefault();
-		// alert("Ingresa a Java Script");
+		//alert("Ingresa a Java Script");
 		hacerOperaciones();
 	});	
 	
 	function hacerOperaciones(){
-		var primero = $("#primero").val();
+		var primero = $("#primeroo").val();
 		var segundo = $("#segundo").val();
+		//var tercero = $("#tercero").val();
 		$.ajax({
         type: "POST",
         url: "oper.php" ,
