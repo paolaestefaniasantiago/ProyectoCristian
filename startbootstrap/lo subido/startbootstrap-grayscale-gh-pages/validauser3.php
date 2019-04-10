@@ -29,7 +29,7 @@
 	$numC="ERROR_EMPTY_VAR";
 	$numC=$_REQUEST['numC'];
 	$nombre=$_REQUEST['nombre'];
-	$nQ= 50;
+	$nQ= 20;
 
 	$hostname="localhost";
 	$user="root";

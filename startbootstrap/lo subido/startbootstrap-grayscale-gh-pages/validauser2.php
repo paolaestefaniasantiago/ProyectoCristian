@@ -26,9 +26,9 @@
 	
 <!--/*PHP + MYSQL*/-->
 <?php
-	$numC="ERROR_EMPTY_VAR";
+	// $numC="ERROR_EMPTY_VAR";
 	$numC=$_REQUEST['numC'];
-	$nombre=$_REQUEST['nombre'];
+	$nombre=$_REQUEST['numW'];
 	$nQ= 50;
 
 	$hostname="localhost";
@@ -38,11 +38,11 @@
 		
 	$mysqli = new mysqli("localhost","root","","users_upjr");
 
-	$query="UPDATE `alum_data` SET `f_e2` = '$nombre' WHERE `alum_data`.`id` = 1";
+	$query="UPDATE `alum_data` SET `f_e2` = '$numC $nombre' WHERE `alum_data`.`id` = 1";
 	$resultado = $mysqli->query($query);
 	//echo "Actualizando... ";
 
-	$success = $mysqli->query("UPDATE `alum_data` SET `f_e2` = '$nombre' WHERE `alum_data`.`id` = 1");
+	$success = $mysqli->query("UPDATE `alum_data` SET `f_e2` = '$numC $nombre' WHERE `alum_data`.`id` = 1");
 
     if ($success ){
       //echo 'OK <br>Tu calificación fue: '.$nombre;
@@ -76,7 +76,7 @@
         <h1 class="mx-auto my-0 text-uppercase">
 			<?php 
 			if ($success ){
-			echo $nombre;
+			echo 'Bien echo';
 			}else{
 				echo 'ERROR';
 			}
@@ -105,8 +105,8 @@
 			
 			<?php 
 			  echo $nQ." preguntas en total;<br>";
-			  echo $numC." pregunta(s) correcta(s) y ";
-			  echo $nQ-$numC." pregunta(s) incorrecta(s).";
+			  echo $numC." pregunta(s) con inciso 'a' y ";
+			  echo $nQ-$numC." pregunta(s) con inciso 'b'.";
 			?>
 		  
 		  </p>
