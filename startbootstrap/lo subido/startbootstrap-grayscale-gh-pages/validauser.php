@@ -90,7 +90,7 @@
     }
 			?>
 		  </h2>
-		  <a href="#about" class="btn btn-primary js-scroll-trigger">Siguiente Examen</a>
+		  <a href="examenEstilo.html" class="btn btn-primary js-scroll-trigger">Siguiente Examen</a>
       </div>
     </div>
   </header>
