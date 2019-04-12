@@ -90,7 +90,7 @@
     }
 			?>
 		  </h2>
-		  <a href="examenHabilidades1.html" class="btn btn-primary js-scroll-trigger">siguente examen</a>
+		  <a href="examenHabilidades2.html" class="btn btn-primary js-scroll-trigger">Finalizar Examen</a>
       </div>
     </div>
   </header>

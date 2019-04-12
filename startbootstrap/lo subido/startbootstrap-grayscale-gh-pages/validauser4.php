@@ -76,7 +76,7 @@
         <h1 class="mx-auto my-0 text-uppercase">
 			<?php 
 			if ($success ){
-			echo 'Bien Hecho';
+			echo 'Bien Echo';
 			}else{
 				echo 'ERROR';
 			}
@@ -90,7 +90,7 @@
     }
 			?>
 		  </h2>
-		  <a href="examenHabilidades1.html" class="btn btn-primary js-scroll-trigger">siguente examen</a>
+		  <a href="examenHabilidades2.html" class="btn btn-primary js-scroll-trigger">siguente examen</a>
       </div>
     </div>
   </header>
